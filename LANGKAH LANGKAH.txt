@@ -1,0 +1,11 @@
+Nyalakan laptop/komputer anda
+Buka browser kalian 
+Ketik di kolom pencarian " Github "
+Setelah itu kalian daftar terlebih dahulu bagi yg belum punya akun Github dan Login bagi yang sudah mempunyai akun Github
+Setelah itu buat Repository 
+Centang yang ada tulisan README.md
+setelah itu buat
+git commit -m "deskripsi file"
+git push -u origin main
+upload ss an di Github
+lalu salin Link Github lalu kirim ke tugas latihan 2 B.pemograman
